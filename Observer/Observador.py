@@ -1,0 +1,6 @@
+class Observador:
+    def __init__(self):
+        ...
+
+    def atualizar(self, data):
+        ...

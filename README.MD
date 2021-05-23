@@ -1,0 +1,1 @@
+Um repositório para os estudos de padrões de projeto.
